@@ -7,7 +7,7 @@ You can contribute us by filing issues, bugs and PRs. You can also take a look a
 * Submitting a fix
 * Proposing new features
 * Becoming a maintainer
-If you want to discuss on something then feel free to present your opinions, views or any other relevant comment on discussions. Please note we have a code of conduct, please follow it in all your interactions with the project.
+If you want to discuss on something then feel free to present your opinions, views or any other relevant comment on [discussions](https://github.com/thegautamkumarjaiswal/Academics_programming/discussions). Please note we have a [code of conduct](https://github.com/thegautamkumarjaiswal/Academics_programming/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 
 ## Code contribution
@@ -22,4 +22,4 @@ If you want to discuss on something then feel free to present your opinions, vie
 
 * New code addition/deletion should not break existing flow of a system.
 * Ensure any install or build dependencies are removed before the end of the layer when doing a build.
-* Update the README.md if the change requires with details of changes to the interface.
+* Update the [README.md](https://github.com/thegautamkumarjaiswal/Academics_programming/blob/main/README.md) if the change requires with details of changes to the interface.
