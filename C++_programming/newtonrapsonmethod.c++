@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cmath>
 
 using namespace std;
 #define EPSILON 0.001
@@ -16,12 +17,12 @@ double derivfunc(double x)
 double newtonsapsonmethod(double x)
 {
     double h = func(x) / derivfunc(x);
-    while (func(x) >= EPSILON)
+    while (h >= EPSILON)
     {
         h = func(x) / derivfunc(x);
         x = x - h;
     }
-    return x;
+return x;
 };
 
 int main()
